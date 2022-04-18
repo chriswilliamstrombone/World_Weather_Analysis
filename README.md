@@ -2,7 +2,7 @@
 
 # Overview
 
-- Many people want to travle the world and see new sights. 
+- Many people want to travel the world and see new sights. 
 - Weather conditions influence travel behavior and impact overall travel experience. 
 
 # Purpose
